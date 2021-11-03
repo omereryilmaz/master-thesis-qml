@@ -1,0 +1,18 @@
+URL : 'https://qml.azurewebsites.net/api/Alisveris'
+YELLOW : '#f1c40f'
+BLACK : '#2d3436'
+BLUE : '#2980b9'
+RED : '#c0392b'
+GREEN : '#2ecc71'
+TP : "TP : "
+TN : "TN : "
+FP : "FP : "
+FN : "FN : "
+CLASSICAL : "Classical : "
+QUANTUM : "Quantum   : "
+ENTER : '\n'
+LABEL_TRAIN : 'Train'
+LABEL_TEST : 'Test'
+SHOPING_XLABEL : 'Age'
+SHOPPING_YLABEL : 'Person Annual Average Shopping Count'
+YAS : 'YAS'
